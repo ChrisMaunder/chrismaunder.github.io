@@ -44,3 +44,12 @@ An index to my repos (owned or created)
 #### Text and language
 - [Sentiment analyser (contributed)](https://github.com/codeproject/CodeProject.AI-SentimentAnalysis)
 - [Text Summary](https://github.com/codeproject/CodeProject.AI-TextSummary)
+
+
+## Physiology / Training
+
+(Private repos only)
+
+## MFC Controls
+
+- [MFC Grid Control](https://github.com/ChrisMaunder/GridCtrl)

@@ -1,9 +1,0 @@
-/*@import "{{ site.theme }}";*/
-@import 'jekyll-theme-minimal';
-
-section {
-    width: 600px;
-}
-a:hover, a:focus {
-    font-weight: normal;
-}

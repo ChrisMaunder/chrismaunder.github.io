@@ -50,14 +50,41 @@ An index to my repos (owned or created)
   <li><a href="https://github.com/codeproject/CodeProject.AI-SentimentAnalysis">Sentiment analyser (contributed)</a></li>
   <li><a href="https://github.com/codeproject/CodeProject.AI-TextSummary">Text Summary</a></li>
   </ul>
+  
 </td>
 <td>
   
-  <h2>MFC Controls</h2>
+  <h2>C++ and MFC Controls</h2>
   <ul>
-  <li><a href="https://github.com/ChrisMaunder/MFC-GridCtr)">MFC Grid Control</a></li>
+    <li><a href="https://github.com/ChrisMaunder/MFC-GridCtrl)">MFC Grid Control</a></li>
+    <li><a href="https://github.com/ChrisMaunder/geometry)">Classes for computational geometry</a></li>
+    <li><a href="https://github.com/ChrisMaunder/colour_picker">Office 97 style Colour Picker control</a></li>
+    <li><a href="https://github.com/ChrisMaunder/dhtmldialog">The MFC CDHtmlDialog class</a></li>
+    <li><a href="https://github.com/ChrisMaunder/tooltipex">A multiline extended tooltip control</a></li>
+    <li><a href="https://github.com/ChrisMaunder/mfchtmledit">Using the new HTML Editing classes in MFC7</a></li>
+    <li><a href="https://github.com/ChrisMaunder/webgrab">A class to download files from the net</a></li>
   </ul>
 
+  <h2>SQL and T-SQL</h2>
+  <ul>
+    <li><a href="https://github.com/ChrisMaunder/A-simple-method-to-measure-execution-time-in-SQL-S">A simple method to measure execution time in SQL Server</a></li>    
+  </ul>
+
+  <h2>C++/CLI (Managed C++)</h2>
+  <ul>
+    <li><a href="https://github.com/ChrisMaunder/cross_lang_inherit_managed_c_plusplus">Cross language inheritance in .NET</a></li>
+    <li><a href="https://github.com/ChrisMaunder/managedcpp_properties">Using properties in managed C++</a></li>
+    <li><a href="https://github.com/ChrisMaunder/managed_cpp_service">Your first managed C++ Web Service</a></li>
+    <li><a href="https://github.com/ChrisMaunder/garbage_collection_in_managed_cpp">Garbage Collection in .NET</a></li>
+    <li><a href="https://github.com/ChrisMaunder/value_types_in_managed_cpp">Using value types in managed C++</a></li>
+    <li><a href="https://github.com/ChrisMaunder/delegates_in_managed_cpp">Delegates in managed C++</a></li>
+  </ul>
+
+  <h2>Visual J#. A Blast from the past</h2>
+  <ul>
+    <li><a href="https://github.com/ChrisMaunder/intro_vjsharp">Introduction to Visual J# .NET</a></li>    
+  </ul>
+    
   <h2>Physiology / Training</h2>
   <p>(Private repos only)</p>
   

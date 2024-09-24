@@ -53,16 +53,23 @@ An index to my repos (owned or created)
   
 </td>
 <td>
+
+  <h2>Web Development</h2>
+  <ul>
+    <li><a href="https://github.com/ChrisMaunder/usercontrols_aspnet">User controls in ASP.NET</a></li>
+  </ul>  
   
   <h2>C++ and MFC Controls</h2>
   <ul>
     <li><a href="https://github.com/ChrisMaunder/MFC-GridCtrl">MFC Grid Control</a></li>
+    <li><a href="https://github.com/ChrisMaunder/traycalendar">Tray Calendar</a></li>
     <li><a href="https://github.com/ChrisMaunder/geometry">Classes for computational geometry</a></li>
     <li><a href="https://github.com/ChrisMaunder/colour_picker">Office 97 style Colour Picker control</a></li>
     <li><a href="https://github.com/ChrisMaunder/dhtmldialog">The MFC CDHtmlDialog class</a></li>
     <li><a href="https://github.com/ChrisMaunder/tooltipex">A multiline extended tooltip control</a></li>
     <li><a href="https://github.com/ChrisMaunder/mfchtmledit">Using the new HTML Editing classes in MFC7</a></li>
     <li><a href="https://github.com/ChrisMaunder/webgrab">A class to download files from the net</a></li>
+    <li><a href="https://github.com/ChrisMaunder/drawanimated_in_mfc">Using the DrawAnimatedRects() function</a></li>
   </ul>
 
   <h2>SQL and T-SQL</h2>

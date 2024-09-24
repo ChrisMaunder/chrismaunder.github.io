@@ -1,19 +1,18 @@
-        <h2>Summary</h2>
-        Award winning Entrepreneur, Product Manager, Full-stack Software Developer,
-        Author, Marketer, Content Strategist, Sales Engineer, Obsessive Organiser,
-        Critical Thinker, Community builder, Cycling Physiology nut, and tinkerer.
+<h2>Summary</h2>
 
-        A background in Mathematics, Theoretical Physics, Cosmology, Cryptography
-        and over 30 years designing, writing and delivering world class IT projects.
+Award winning Entrepreneur, Product Manager, Full-stack Software Developer, Author, Marketer, Content
+Strategist, Sales Engineer, Obsessive Organiser, Critical Thinker, Community builder, Cycling Physiology
+nut, and tinkerer.
 
-        A heavy-lifter with a passion for launching projects and doing so with next-to-no
-        funding and copious duct-tape. Why put off till tomorrow what we can get out the
-        door today.
-        
-        Focussed on the client, the goal, the end-user, and diplomatic but firm in guiding
-        teams and processes. Experienced in the real-world, with all its slings and stones,
-        and able to bridge the gaps between stakeholders, clients, the technical team and
-        sales. 
+A background in Mathematics, Theoretical Physics, Cosmology, Cryptography and over 30 years designing, 
+writing and delivering world class IT projects.
+
+A heavy-lifter with a passion for launching projects and doing so with next-to-no funding and copious
+duct-tape. Why put off till tomorrow what we can get out the door today.
+
+Focussed on the client, the goal, the end-user, and diplomatic but firm in guiding teams and processes.
+Experienced in the real-world, with all its slings and stones, and able to bridge the gaps between
+stakeholders, clients, the technical team and sales. 
         
 <table><tr valign="top" style="vertical-align:top"><td>
   <h2>Artificial Intelligence</h2>

@@ -77,7 +77,8 @@ An index to my repos (owned or created)
     <li><a href="https://github.com/ChrisMaunder/A-simple-method-to-measure-execution-time-in-SQL-S">A simple method to measure execution time in SQL Server</a></li>    
   </ul>
 
-  <h2>C++/CLI (Managed C++)</h2>
+  <h2>C++/CLI</h2>
+  <p>aka Managed C++</p>
   <ul>
     <li><a href="https://github.com/ChrisMaunder/cross_lang_inherit_managed_c_plusplus">Cross language inheritance in .NET</a></li>
     <li><a href="https://github.com/ChrisMaunder/managedcpp_properties">Using properties in managed C++</a></li>
@@ -87,7 +88,8 @@ An index to my repos (owned or created)
     <li><a href="https://github.com/ChrisMaunder/delegates_in_managed_cpp">Delegates in managed C++</a></li>
   </ul>
 
-  <h2>Visual J#. A Blast from the past</h2>
+  <h2>Visual J#</h2>
+  <p>A blast from the past</p>
   <ul>
     <li><a href="https://github.com/ChrisMaunder/intro_vjsharp">Introduction to Visual J# .NET</a></li>    
   </ul>

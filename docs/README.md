@@ -56,8 +56,8 @@ An index to my repos (owned or created)
   
   <h2>C++ and MFC Controls</h2>
   <ul>
-    <li><a href="https://github.com/ChrisMaunder/MFC-GridCtrl)">MFC Grid Control</a></li>
-    <li><a href="https://github.com/ChrisMaunder/geometry)">Classes for computational geometry</a></li>
+    <li><a href="https://github.com/ChrisMaunder/MFC-GridCtrl">MFC Grid Control</a></li>
+    <li><a href="https://github.com/ChrisMaunder/geometry">Classes for computational geometry</a></li>
     <li><a href="https://github.com/ChrisMaunder/colour_picker">Office 97 style Colour Picker control</a></li>
     <li><a href="https://github.com/ChrisMaunder/dhtmldialog">The MFC CDHtmlDialog class</a></li>
     <li><a href="https://github.com/ChrisMaunder/tooltipex">A multiline extended tooltip control</a></li>

@@ -1,9 +1,7 @@
-An index to my repos (owned or created)
 
 <table><tr valign="top" style="vertical-align:top"><td>
-  <h2>CodeProject.AI Server</h2>
-  
-  <H3>Server</H3>
+  <h2>Artificial Intelligence</h2>
+  <h3>CodeProject.AI Server</h3>
   <ul>
     <li><a href="https://github.com/codeproject/CodeProject.AI-Server">CodeProject.AI Server</a></li>
     <li><a href="https://github.com/codeproject/CodeProject.AI-Server-Installers">CodeProject.AI Server Installers</a></li>

@@ -13,7 +13,9 @@ duct-tape. Why put off till tomorrow what we can get out the door today.
 Focussed on the client, the goal, the end-user, and diplomatic but firm in guiding teams and processes.
 Experienced in the real-world, with all its slings and stones, and able to bridge the gaps between
 stakeholders, clients, the technical team and sales. 
-        
+
+<h2>GitHub repos</h2>
+
 <table><tr valign="top" style="vertical-align:top"><td>
   <h2>Artificial Intelligence</h2>
   <h3>CodeProject.AI Server</h3>

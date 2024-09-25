@@ -50,12 +50,13 @@ No job too intimidating, no job too humble. In the end it's about the game, not 
   We know developers and how to talk to them because we are Developers.</li>
 <li>Canadian Fast 50 awards, Jolt Cola (remember them?) award, plus dozens of industry
     accolades. 17 years as a Microsoft C++ MVP.</li>
-<li>Survived the dot-com crash, the financial crisis, and the COVID recession. I have the scars to prove it.
+<li>Survived the dot-com crash, the financial crisis, and the COVID recession. I have the scars to prove it.</li>
 </ul>
 
 <h3>Education</h3>
 BSc with First Class Honours at the Australian National univeristy and post-graduate
 studies at the University of Melbourne, Australia.
+
 
 <h2>GitHub repos</h2>
 

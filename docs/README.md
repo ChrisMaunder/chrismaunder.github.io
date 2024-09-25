@@ -60,7 +60,7 @@ studies at the University of Melbourne, Australia.
 
 <h2>GitHub repos</h2>
 
-<table><tr valign="top" style="vertical-align:top"><td>
+<table cellpadding=10><tr valign="top" style="vertical-align:top"><td>
   <h2>Artificial Intelligence</h2>
   <h3>CodeProject.AI Server</h3>
   <ul>

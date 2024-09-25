@@ -14,6 +14,9 @@ Focussed on the client, the goal, the end-user, and diplomatic but firm in guidi
 Experienced in the real-world, with all its slings and stones, and able to bridge the gaps between
 stakeholders, clients, the technical team and sales. 
 
+A solid understanding of what 'budgetry constraints' mean and how to work with that. 25 years in 
+startup-mode brings a laser-like focus on what's important. It's not that bad in economy, honestly.
+
 <h3>Goal</h3>
 
 To provide value, leadership, experience and a ton of productivity to an organisation that's making a 
@@ -35,18 +38,19 @@ No job too intimidating, no job too humble. In the end it's about the game, not 
 
 <h3>Accomplishments</h3>
 <ul>
-  <li><b>CodeProject.com</b>: The OG of the software developer communities. 16M registered members,
+<li><b>CodeProject.com</b>: The OG of the software developer communities. 16M registered members,
   65,000 full length, high quality articles with code. Self funded, built and hosted by myself and
   my team in house. An outstanding, self-managed, supportive developer community the likes
   of which will not be seen again.</li> 
-  <li>Various Canadian Fast 50 awards, Jolt Cola (remember them?) award, plus dozens of industry
-    accolades.</li>
-  <li><b>DeveloperMedia.com</b> A multi-national digitial marketing agency for the IT space,
+<li><b>DeveloperMedia.com</b> A multi-national digitial marketing agency for the IT space,
   counting every heavy-weight in the industry as a client. Microsoft, Google, Amazon, NVIDIA, Cohere,
   Salesforce. You name them, we looked after them.</li>
   <li><b>ContentLab.com</b> A content marketing agency utilising the top talent in the IT community
   to create Content Marketing pieces from actual developers, guided by the minds behind CodeProject.
   We know developers and how to talk to them because we are Developers.</li>
+<li>Canadian Fast 50 awards, Jolt Cola (remember them?) award, plus dozens of industry
+    accolades. 17 years as a Microsoft C++ MVP.</li>
+<li>Survived the dot-com crash, the financial crisis, and the COVID recession. I have the scars to prove it.
 </ul>
 
 <h3>Education</h3>

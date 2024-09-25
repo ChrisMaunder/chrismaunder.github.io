@@ -14,6 +14,19 @@ Focussed on the client, the goal, the end-user, and diplomatic but firm in guidi
 Experienced in the real-world, with all its slings and stones, and able to bridge the gaps between
 stakeholders, clients, the technical team and sales. 
 
+<h3>Skills</h3>
+<ul>
+  <li>Organisational Leadership. Communication, mentorship, organisation, strategy and budget</li>
+  <li>Product research, design, management, construction, delivery, marketing and sales training.</li>
+  <li>Software development: full stack from SQL, Redis, through .NET, Python and Typescript, to HTML, CSS, Vue.js</li>
+  <li>Infrastructure management: 25 years experience wrangling servers in co-lo hosting environments, experience in AWS and Azure.</li>
+  <li>Client relations - the good and the bad days. Everything from small ISVs to the Fortune 500 crowd.</li>
+  <li>Sales training, collateral, metrics and pep-talks</li>
+  <li>Marketing: sales and marketing funnels, collateral, outreach, strategy and messaging, with everything data and process driven.</li>
+  <li>Community management: 29 years managing the OGs of online communities: CodeGuru.com to CodeProject.com.</li>
+  <li>Authoring and Content Marketing. Prolific author of over 200 online articles, contributed to numerous books, and written copious content markleting pieces for fortune 500 compaines.</li>
+</ul>
+
 <h2>GitHub repos</h2>
 
 <table><tr valign="top" style="vertical-align:top"><td>

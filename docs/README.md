@@ -14,6 +14,12 @@ Focussed on the client, the goal, the end-user, and diplomatic but firm in guidi
 Experienced in the real-world, with all its slings and stones, and able to bridge the gaps between
 stakeholders, clients, the technical team and sales. 
 
+<h3>Goal</h3>
+
+To provide value, leadership, experience and a ton of productivity to an organisation that's making a 
+difference. To work with good, smart, fun, passionate people who don't take themselves too seriously.
+No job too intimidating, no job too humble. In the end it's about the game, not the scorecard.
+
 <h3>Skills</h3>
 <ul>
   <li>Organisational Leadership. Communication, mentorship, organisation, strategy and budget</li>
@@ -26,6 +32,11 @@ stakeholders, clients, the technical team and sales.
   <li>Community management: 29 years managing the OGs of online communities: CodeGuru.com to CodeProject.com.</li>
   <li>Authoring and Content Marketing. Prolific author of over 200 online articles, contributed to numerous books, and written copious content markleting pieces for fortune 500 compaines.</li>
 </ul>
+
+
+<h3>Education</h3>
+BSc with First Class Honours at the Australian National univeristy and post-graduate
+studies at the University of Melbourne, Australia.
 
 <h2>GitHub repos</h2>
 

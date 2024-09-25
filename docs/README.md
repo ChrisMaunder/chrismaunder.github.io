@@ -33,6 +33,21 @@ No job too intimidating, no job too humble. In the end it's about the game, not 
   <li>Authoring and Content Marketing. Prolific author of over 200 online articles, contributed to numerous books, and written copious content markleting pieces for fortune 500 compaines.</li>
 </ul>
 
+<h3>Accomplishments</h3>
+<ul>
+  <li><b>CodeProject.com</b>: The OG of the software developer communities. 16M registered members,
+  65,000 full length, high quality articles with code. Self funded, built and hosted by myself and
+  my team in house. An outstanding, self-managed, supportive developer community the likes
+  of which will not be seen again.</li> 
+  <li>Various Canadian Fast 50 awards, Jolt Cola (remember them?) award, plus dozens of industry
+    accolades.</li>
+  <li><b>DeveloperMedia.com</b> A multi-national digitial marketing agency for the IT space,
+  counting every heavy-weight in the industry as a client. Microsoft, Google, Amazon, NVIDIA, Cohere,
+  Salesforce. You name them, we looked after them.</li>
+  <li><b>ContentLab.com</b> A content marketing agency utilising the top talent in the IT community
+  to create Content Marketing pieces from actual developers, guided by the minds behind CodeProject.
+  We know developers and how to talk to them because we are Developers.</li>
+</ul>
 
 <h3>Education</h3>
 BSc with First Class Honours at the Australian National univeristy and post-graduate

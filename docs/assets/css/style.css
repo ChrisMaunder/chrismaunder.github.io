@@ -122,6 +122,7 @@ header {
     -webkit-font-smoothing: subpixel-antialiased;
     padding:.75rem;
     height: calc(100vh - 5rem);
+    background: whitesmoke;
 }
 section {
     width: 580px; /* 500px */
@@ -331,9 +332,11 @@ ul.downloads {
 
     header {
         /* padding-right: 320px*/ 
-        padding: 0;
+        /* padding: 0;*/
         float: right;
-        margin: 1rem 0 0 1rem;        
+        margin: 1rem 0 0 1rem;
+        height:auto;
+        padding: 0.5rem
     }
 
     section {
@@ -348,9 +351,12 @@ ul.downloads {
     }
 
     header ul {
+        /*
         position: absolute;
         right: 50px;
         top: 52px
+        */
+        padding-left: 1rem;
     }
 }
 

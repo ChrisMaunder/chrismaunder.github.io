@@ -189,7 +189,7 @@ your project is is now downloadable, installable and used by hundreds of thousan
   <li><a href="https://github.com/ChrisMaunder/set_combobox_dropwidth_mfc">Setting the width of the dropdown list</a></li>
 </ul>
 
-<h2>SQL and T-SQL</h2>
+<h3>SQL and T-SQL</h3>
 <ul>
   <li><a href="https://github.com/ChrisMaunder/List-blocking-processes-in-SQL-server">List blocking processes in SQL server</a></li>
   <li><a href="https://github.com/ChrisMaunder/List-blocking-processes-in-SQL-server-2">List blocking processes in SQL server (alternative)</a></li>
@@ -198,7 +198,7 @@ your project is is now downloadable, installable and used by hundreds of thousan
     time in SQL Server</a></li>    
 </ul>
 
-<h2>C++/CLI</h2>
+<h3>C++/CLI</h3>
 <p>aka Managed C++</p>
 <ul>
   <li><a href="https://github.com/ChrisMaunder/cross_lang_inherit_managed_c_plusplus">Cross language inheritance in .NET</a></li>
@@ -210,12 +210,12 @@ your project is is now downloadable, installable and used by hundreds of thousan
   <li><a href="https://github.com/ChrisMaunder/Trick_Button_Managed_cpp">The MFC unclickable button ported to Managed C++</a></li>
 </ul>
 
-<h2>Visual J#</h2>
+<h3>Visual J#</h3>
 <p>A blast from the past</p>
 <ul>
   <li><a href="https://github.com/ChrisMaunder/intro_vjsharp">Introduction to Visual J# .NET</a></li>    
 </ul>
   
-<h2>Physiology / Training</h2>
+<h3>Physiology / Training</h3>
 <p>(Private repos only)</p>
   

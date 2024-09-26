@@ -136,7 +136,7 @@ your project is is now downloadable, installable and used by hundreds of thousan
     Server on a Raspberry Pi<a/></li>
   <li><a href="https://github.com/ChrisMaunder/Getting-PaddleOCR-and-PaddlePaddle-to-work-in-Wind">Getting PaddleOCR
     and PaddlePaddle to work in Windows, Ubuntu and macOS</a></li>
-    <li><a href="https://github.com/ChrisMaunder/5-Ways-to-Add-Artificial-Intelligence-to-an-Existi">5 Ways to Add 
+  <li><a href="https://github.com/ChrisMaunder/5-Ways-to-Add-Artificial-Intelligence-to-an-Existi">5 Ways to Add 
       Artificial Intelligence to an Existing Application</a></li>
 </ul>
 

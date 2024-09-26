@@ -64,10 +64,11 @@ your project is is now downloadable, installable and used by hundreds of thousan
 <li>Survived the dot-com crash, the financial crisis, and the COVID recession. I have the scars to prove it.</li>
 </ul>
 
-<h2>Education</h2>
+<h2>Education and Training</h2>
 <ul>
   <li>BSc (Mathematics) with First Class Honours focussing on Astrophysics at the Australian National Univeristy.</li>
-  <li>Post-graduate studies at the University of Melbourne, Australia.</li>
+  <li>Post-graduate studies at the University of Melbourne, Australia. Geomorphology and Hydrology through Digital Elevation Models.</li>
+  <li>Cryptanalysis and High Performance Computing, Australian Signals Directorate (formerly Defence Signals Directorate)</li>
 </ul>
 
 <h2>Portfolio</h2>

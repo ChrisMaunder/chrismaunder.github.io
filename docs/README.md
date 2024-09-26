@@ -38,23 +38,28 @@ No job too intimidating, no job too humble. In the end it's about the game, not 
 
 <h2>Accomplishments</h2>
 <ul>
-<li><b>CodeProject.com</b>: The OG of the software developer communities. 16M registered members,
+
+  <li><b>CodeProject.com</b>: The OG of the software developer communities. 16M registered members,
   65,000 full length, high quality articles with code. Self funded, built and hosted by myself and
   my team in house. An outstanding, self-managed, supportive developer community the likes
   of which will not be seen again.</li>
-<li><b>CodeProject.AI</b>: An AI server for edge installations on any operating system, any hardware.
+
+  <li><b>CodeProject.AI</b>: An AI server for edge installations on any operating system, any hardware.
 All the AI inferencing you need with your data staying safe within your network. From Raspberry Pi to
 the latest Apple Silicon Macs. Take any AI project, wrap it up as a module and
 your project is is now downloadable, installable and used by hundreds of thousands of users. Over
-1 Million downloads of our installers or Docker images. <a href="https://github.com/codeproject/CodeProject.AI-Server">Full code available</a>.
+1 Million downloads of our installers or Docker images. <a href="https://github.com/codeproject/CodeProject.AI-Server">Full code available</a>.</li>
+  
 <li><b>DeveloperMedia.com</b> A multi-national digitial marketing agency for the IT space,
   counting every heavy-weight in the industry as a client. Microsoft, Google, Amazon, NVIDIA, Cohere,
   Salesforce. You name them, we looked after them.</li>
   <li><b>ContentLab.com</b> A content marketing agency utilising the top talent in the IT community
   to create Content Marketing pieces from actual developers, guided by the minds behind CodeProject.
   We know developers and how to talk to them because we are Developers.</li>
+
 <li>Canadian Fast 50 awards, Jolt Cola (remember them?) award, plus dozens of industry
     accolades. 17 years as a Microsoft C++ MVP.</li>
+
 <li>Survived the dot-com crash, the financial crisis, and the COVID recession. I have the scars to prove it.</li>
 </ul>
 
@@ -123,17 +128,24 @@ your project is is now downloadable, installable and used by hundreds of thousan
 
 <h4>Articles</h4>
 <ul>
-  <li><a href="https://github.com/ChrisMaunder/Adding-a-New-Module-to-CodeProject-AI-Server">Adding a New Module to CodeProject.AI Server</a></li>
-  <li><a href="https://github.com/ChrisMaunder/Object-Detection-with-an-IP-Camera-using-Python">Object Detection with an IP Camera using Python and CodeProject.AI Server<a/></li>
-  <li><a href="https://github.com/ChrisMaunder/Running-CodeProject-AI-Server-on-a-Raspberry-Pi">Running CodeProject.AI Server on a Raspberry Pi<a/></li>
-  <li><a href="https://github.com/ChrisMaunder/Getting-PaddleOCR-and-PaddlePaddle-to-work-in-Wind">Getting PaddleOCR and PaddlePaddle to work in Windows, Ubuntu and macOS</a></li>
-    <li><a href="https://github.com/ChrisMaunder/5-Ways-to-Add-Artificial-Intelligence-to-an-Existi">5 Ways to Add Artificial Intelligence to an Existing Application</a></li>
+  <li><a href="https://github.com/ChrisMaunder/Adding-a-New-Module-to-CodeProject-AI-Server">Adding a New Module 
+    to CodeProject.AI Server</a></li>
+  <li><a href="https://github.com/ChrisMaunder/Object-Detection-with-an-IP-Camera-using-Python">Object Detection 
+    with an IP Camera using Python and CodeProject.AI Server<a/></li>
+  <li><a href="https://github.com/ChrisMaunder/Running-CodeProject-AI-Server-on-a-Raspberry-Pi">Running CodeProject.AI
+    Server on a Raspberry Pi<a/></li>
+  <li><a href="https://github.com/ChrisMaunder/Getting-PaddleOCR-and-PaddlePaddle-to-work-in-Wind">Getting PaddleOCR
+    and PaddlePaddle to work in Windows, Ubuntu and macOS</a></li>
+    <li><a href="https://github.com/ChrisMaunder/5-Ways-to-Add-Artificial-Intelligence-to-an-Existi">5 Ways to Add 
+      Artificial Intelligence to an Existing Application</a></li>
 </ul>
 
 <h3>System Programming</h3>
   <ul>
-    <li><a href="https://github.com/ChrisMaunder/How-to-Change-Text-Color-in-a-Windows-Terminal">How to Change Text Color in a Windows Terminal</a></li>
-    <li><a href="https://github.com/ChrisMaunder/How-to-Change-Text-Color-in-a-Linux-Terminal">How to Change Text Color in a Linux Terminal</a></li>
+    <li><a href="https://github.com/ChrisMaunder/How-to-Change-Text-Color-in-a-Windows-Terminal">How to Change Text 
+      Color in a Windows Terminal</a></li>
+    <li><a href="https://github.com/ChrisMaunder/How-to-Change-Text-Color-in-a-Linux-Terminal">How to Change Text 
+      Color in a Linux Terminal</a></li>
   </ul>  
 
 <h3>Web Development</h3>
@@ -182,7 +194,8 @@ your project is is now downloadable, installable and used by hundreds of thousan
     <li><a href="https://github.com/ChrisMaunder/List-blocking-processes-in-SQL-server">List blocking processes in SQL server</a></li>
     <li><a href="https://github.com/ChrisMaunder/List-blocking-processes-in-SQL-server-2">List blocking processes in SQL server (alternative)</a></li>
     <li><a href="https://github.com/ChrisMaunder/Format-a-number-with-commas-in-SQL">Format a number (with commas) in SQL</a></li>
-    <li><a href="https://github.com/ChrisMaunder/A-simple-method-to-measure-execution-time-in-SQL-S">A simple method to measure execution time in SQL Server</a></li>    
+    <li><a href="https://github.com/ChrisMaunder/A-simple-method-to-measure-execution-time-in-SQL-S">A simple method to measure execution 
+      time in SQL Server</a></li>    
   </ul>
 
   <h2>C++/CLI</h2>

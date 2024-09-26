@@ -141,81 +141,81 @@ your project is is now downloadable, installable and used by hundreds of thousan
 </ul>
 
 <h3>System Programming</h3>
-  <ul>
-    <li><a href="https://github.com/ChrisMaunder/How-to-Change-Text-Color-in-a-Windows-Terminal">How to Change Text 
-      Color in a Windows Terminal</a></li>
-    <li><a href="https://github.com/ChrisMaunder/How-to-Change-Text-Color-in-a-Linux-Terminal">How to Change Text 
-      Color in a Linux Terminal</a></li>
-  </ul>  
+<ul>
+  <li><a href="https://github.com/ChrisMaunder/How-to-Change-Text-Color-in-a-Windows-Terminal">How to Change Text 
+    Color in a Windows Terminal</a></li>
+  <li><a href="https://github.com/ChrisMaunder/How-to-Change-Text-Color-in-a-Linux-Terminal">How to Change Text 
+    Color in a Linux Terminal</a></li>
+</ul>  
 
 <h3>Web Development</h3>
-  <ul>
-    <li><a href="https://github.com/ChrisMaunder/codeproject-forum">The Code Project Discussion boards</a></li>
-    <li><a href="https://github.com/ChrisMaunder/usercontrols_aspnet">User controls in ASP.NET</a></li>
-    <li><a href="https://github.com/ChrisMaunder/Dynamic-Compression-in-IIS-7-2">Dynamic Compression in IIS 7.5</a></li>
-    <li><a href="https://github.com/ChrisMaunder/readfile_in_asp">Reading a text file in ASP</a></li>
-    <li><a href="https://github.com/ChrisMaunder/AccessDB_in_VBScript">Accessing Microsoft Access databases in ASP using ADO</a></li>
-  </ul>  
+<ul>
+  <li><a href="https://github.com/ChrisMaunder/codeproject-forum">The Code Project Discussion boards</a></li>
+  <li><a href="https://github.com/ChrisMaunder/usercontrols_aspnet">User controls in ASP.NET</a></li>
+  <li><a href="https://github.com/ChrisMaunder/Dynamic-Compression-in-IIS-7-2">Dynamic Compression in IIS 7.5</a></li>
+  <li><a href="https://github.com/ChrisMaunder/readfile_in_asp">Reading a text file in ASP</a></li>
+  <li><a href="https://github.com/ChrisMaunder/AccessDB_in_VBScript">Accessing Microsoft Access databases in ASP using ADO</a></li>
+</ul>  
 
-  <h3>C++ Programming</h3>
-  <ul>
-    <li><a href="https://github.com/ChrisMaunder/geometry">C++ classes for computational geometry</a></li>
-    <li><a href="https://github.com/ChrisMaunder/library_version">Determining the version number of the Windows system libraries</a></li>
-    <li><a href="https://github.com/ChrisMaunder/traycalendar/tree/master">Tray Calendar</a></li>
-    <li><a href="https://github.com/ChrisMaunder/trayposition">Finding the position and dimensions of the Windows system tray</a></li>
-    <li><a href="https://github.com/ChrisMaunder/unicode">Unicode, MBCS and Generic text mappings</a></li>
-  </ul>
+<h3>C++ Programming</h3>
+<ul>
+  <li><a href="https://github.com/ChrisMaunder/geometry">C++ classes for computational geometry</a></li>
+  <li><a href="https://github.com/ChrisMaunder/library_version">Determining the version number of the Windows system libraries</a></li>
+  <li><a href="https://github.com/ChrisMaunder/traycalendar/tree/master">Tray Calendar</a></li>
+  <li><a href="https://github.com/ChrisMaunder/trayposition">Finding the position and dimensions of the Windows system tray</a></li>
+  <li><a href="https://github.com/ChrisMaunder/unicode">Unicode, MBCS and Generic text mappings</a></li>
+</ul>
 
-  <h3>MFC Programming</h3>
-  <ul>
-    <li><a href="https://github.com/ChrisMaunder/MFC-GridCtrl">MFC Grid Control</a></li>
-    <li><a href="https://github.com/ChrisMaunder/gridctrl_combo">Using comboboxes in the MFC Grid Control</a></li>
-    <li><a href="https://github.com/ChrisMaunder/trick_button">An unclickable button</a></li>
-    <li><a href="https://github.com/ChrisMaunder/subclassdemo">Create your own controls - the art of subclassing</a></li>    
-    <li><a href="https://github.com/ChrisMaunder/colour_picker">Office 97 style Colour Picker control</a></li>
-    <li><a href="https://github.com/ChrisMaunder/webgrab">An MFC class to download files from the net</a></li>
-    <li><a href="https://github.com/ChrisMaunder/dhtmldialog">The MFC CDHtmlDialog class</a></li>
-    <li><a href="https://github.com/ChrisMaunder/tooltipex">A multiline extended tooltip control</a></li>
-    <li><a href="https://github.com/ChrisMaunder/mfchtmledit">Using the new HTML Editing classes in MFC7</a></li>
-    <li><a href="https://github.com/ChrisMaunder/drawanimated_in_mfc">Using the DrawAnimatedRects() function</a></li>
-    <li><a href="https://github.com/ChrisMaunder/notaskbaricon">Creating an application with no taskbar icon</a></li>
-    <li><a href="https://github.com/ChrisMaunder/multiline_titletips">Multiline Titletips</a></li>
-    <li><a href="https://github.com/ChrisMaunder/qsort">Using qsort on arrays of sequential data</a></li>
-    <li><a href="https://github.com/ChrisMaunder/dibsection_wince">A DIBSection wrapper for Win32 and WinCE</a></li>
-    <li><a href="https://github.com/ChrisMaunder/Auto_size_bitmap_picture">An auto-sizing bitmap picture control</a></li>
-    <li><a href="https://github.com/ChrisMaunder/timestamp">Timestamp - A utility to change a files "Modified" time</a></li>
-    <li><a href="https://github.com/ChrisMaunder/hyperlink">Hyperlink control</a></li>
-    <li><a href="https://github.com/ChrisMaunder/progressbar__in_statusbar_mfc">Showing progress bar in a status bar pane</a></li>
-    <li><a href="https://github.com/ChrisMaunder/set_combobox_dropwidth_mfc">Setting the width of the dropdown list</a></li>
-  </ul>
+<h3>MFC Programming</h3>
+<ul>
+  <li><a href="https://github.com/ChrisMaunder/MFC-GridCtrl">MFC Grid Control</a></li>
+  <li><a href="https://github.com/ChrisMaunder/gridctrl_combo">Using comboboxes in the MFC Grid Control</a></li>
+  <li><a href="https://github.com/ChrisMaunder/trick_button">An unclickable button</a></li>
+  <li><a href="https://github.com/ChrisMaunder/subclassdemo">Create your own controls - the art of subclassing</a></li>    
+  <li><a href="https://github.com/ChrisMaunder/colour_picker">Office 97 style Colour Picker control</a></li>
+  <li><a href="https://github.com/ChrisMaunder/webgrab">An MFC class to download files from the net</a></li>
+  <li><a href="https://github.com/ChrisMaunder/dhtmldialog">The MFC CDHtmlDialog class</a></li>
+  <li><a href="https://github.com/ChrisMaunder/tooltipex">A multiline extended tooltip control</a></li>
+  <li><a href="https://github.com/ChrisMaunder/mfchtmledit">Using the new HTML Editing classes in MFC7</a></li>
+  <li><a href="https://github.com/ChrisMaunder/drawanimated_in_mfc">Using the DrawAnimatedRects() function</a></li>
+  <li><a href="https://github.com/ChrisMaunder/notaskbaricon">Creating an application with no taskbar icon</a></li>
+  <li><a href="https://github.com/ChrisMaunder/multiline_titletips">Multiline Titletips</a></li>
+  <li><a href="https://github.com/ChrisMaunder/qsort">Using qsort on arrays of sequential data</a></li>
+  <li><a href="https://github.com/ChrisMaunder/dibsection_wince">A DIBSection wrapper for Win32 and WinCE</a></li>
+  <li><a href="https://github.com/ChrisMaunder/Auto_size_bitmap_picture">An auto-sizing bitmap picture control</a></li>
+  <li><a href="https://github.com/ChrisMaunder/timestamp">Timestamp - A utility to change a files "Modified" time</a></li>
+  <li><a href="https://github.com/ChrisMaunder/hyperlink">Hyperlink control</a></li>
+  <li><a href="https://github.com/ChrisMaunder/progressbar__in_statusbar_mfc">Showing progress bar in a status bar pane</a></li>
+  <li><a href="https://github.com/ChrisMaunder/set_combobox_dropwidth_mfc">Setting the width of the dropdown list</a></li>
+</ul>
+
+<h2>SQL and T-SQL</h2>
+<ul>
+  <li><a href="https://github.com/ChrisMaunder/List-blocking-processes-in-SQL-server">List blocking processes in SQL server</a></li>
+  <li><a href="https://github.com/ChrisMaunder/List-blocking-processes-in-SQL-server-2">List blocking processes in SQL server (alternative)</a></li>
+  <li><a href="https://github.com/ChrisMaunder/Format-a-number-with-commas-in-SQL">Format a number (with commas) in SQL</a></li>
+  <li><a href="https://github.com/ChrisMaunder/A-simple-method-to-measure-execution-time-in-SQL-S">A simple method to measure execution 
+    time in SQL Server</a></li>    
+</ul>
+
+<h2>C++/CLI</h2>
+<p>aka Managed C++</p>
+<ul>
+  <li><a href="https://github.com/ChrisMaunder/cross_lang_inherit_managed_c_plusplus">Cross language inheritance in .NET</a></li>
+  <li><a href="https://github.com/ChrisMaunder/managedcpp_properties">Using properties in managed C++</a></li>
+  <li><a href="https://github.com/ChrisMaunder/managed_cpp_service">Your first managed C++ Web Service</a></li>
+  <li><a href="https://github.com/ChrisMaunder/garbage_collection_in_managed_cpp">Garbage Collection in .NET</a></li>
+  <li><a href="https://github.com/ChrisMaunder/value_types_in_managed_cpp">Using value types in managed C++</a></li>
+  <li><a href="https://github.com/ChrisMaunder/delegates_in_managed_cpp">Delegates in managed C++</a></li>
+  <li><a href="https://github.com/ChrisMaunder/Trick_Button_Managed_cpp">The MFC unclickable button ported to Managed C++</a></li>
+</ul>
+
+<h2>Visual J#</h2>
+<p>A blast from the past</p>
+<ul>
+  <li><a href="https://github.com/ChrisMaunder/intro_vjsharp">Introduction to Visual J# .NET</a></li>    
+</ul>
   
-  <h2>SQL and T-SQL</h2>
-  <ul>
-    <li><a href="https://github.com/ChrisMaunder/List-blocking-processes-in-SQL-server">List blocking processes in SQL server</a></li>
-    <li><a href="https://github.com/ChrisMaunder/List-blocking-processes-in-SQL-server-2">List blocking processes in SQL server (alternative)</a></li>
-    <li><a href="https://github.com/ChrisMaunder/Format-a-number-with-commas-in-SQL">Format a number (with commas) in SQL</a></li>
-    <li><a href="https://github.com/ChrisMaunder/A-simple-method-to-measure-execution-time-in-SQL-S">A simple method to measure execution 
-      time in SQL Server</a></li>    
-  </ul>
-
-  <h2>C++/CLI</h2>
-  <p>aka Managed C++</p>
-  <ul>
-    <li><a href="https://github.com/ChrisMaunder/cross_lang_inherit_managed_c_plusplus">Cross language inheritance in .NET</a></li>
-    <li><a href="https://github.com/ChrisMaunder/managedcpp_properties">Using properties in managed C++</a></li>
-    <li><a href="https://github.com/ChrisMaunder/managed_cpp_service">Your first managed C++ Web Service</a></li>
-    <li><a href="https://github.com/ChrisMaunder/garbage_collection_in_managed_cpp">Garbage Collection in .NET</a></li>
-    <li><a href="https://github.com/ChrisMaunder/value_types_in_managed_cpp">Using value types in managed C++</a></li>
-    <li><a href="https://github.com/ChrisMaunder/delegates_in_managed_cpp">Delegates in managed C++</a></li>
-    <li><a href="https://github.com/ChrisMaunder/Trick_Button_Managed_cpp">The MFC unclickable button ported to Managed C++</a></li>
-  </ul>
-
-  <h2>Visual J#</h2>
-  <p>A blast from the past</p>
-  <ul>
-    <li><a href="https://github.com/ChrisMaunder/intro_vjsharp">Introduction to Visual J# .NET</a></li>    
-  </ul>
-    
-  <h2>Physiology / Training</h2>
-  <p>(Private repos only)</p>
+<h2>Physiology / Training</h2>
+<p>(Private repos only)</p>
   

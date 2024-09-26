@@ -74,25 +74,25 @@ your project is is now downloadable, installable and used by hundreds of thousan
 <h2>Portfolio</h2>
 
 <h3>Artificial Intelligence</h3>
-<h4>Projects: CodeProject.AI Server</h4>
+<h4>CodeProject.AI Server</h4>
 <ul>
   <li><a href="https://github.com/codeproject/CodeProject.AI-Server">CodeProject.AI Server</a></li>
   <li><a href="https://github.com/codeproject/CodeProject.AI-Server-Installers">CodeProject.AI Server Installers</a></li>
 </ul>
 
-<H4>Projects: CodeProject.AI Modules</H4>
+<H4>CodeProject.AI Modules</H4>
 
 <table><tr valign="top">
 <td>
 
-  <h5>Generative AI</h5>
+  <p><b>Generative AI</b></p>
   <ul>
   <li><a href="https://github.com/codeproject/CodeProject.AI-LlamaChat">LlamaChat</a></li>
   <li><a href="https://github.com/codeproject/CodeProject.AI-MultiModeLLM">Multi-modal LLM (Phi-3 vision)</a></li>
   <li><a href="https://github.com/codeproject/CodeProject.AI-Text2Image">Text-to-Image (contributed)</a></li>
   </ul>
   
-  <h5>Computer Vision</h5>
+  <p><b>Computer Vision</b></p>
   <ul>
   <li><a href="https://github.com/codeproject/CodeProject.AI-FaceProcessing">Face detection and recognition</a></li>
   <li><a href="https://github.com/codeproject/CodeProject.AI-ALPR">Licence plate reader</a></li>
@@ -108,7 +108,7 @@ your project is is now downloadable, installable and used by hundreds of thousan
   
 </td><td>
   
-  <h5>Image Manipulation</h5>
+  <p><b>Image Manipulation</b></p>
   <ul>
   <li><a href="https://github.com/codeproject/CodeProject.AI-BackgroundRemover">Background remover</a></li>
   <li><a href="https://github.com/codeproject/CodeProject.AI-Cartoonizer">Cartooniser</a></li>
@@ -116,12 +116,12 @@ your project is is now downloadable, installable and used by hundreds of thousan
   <li><a href="https://github.com/codeproject/CodeProject.AI-SuperResolution">Super resolution</a></li>
   </ul>
  
-  <h5>Sound</h5>
+  <p><b>Sound</b></p>
   <ul>
   <li><a href="https://github.com/codeproject/CodeProject.AI-SoundClassifierTF">Sound classifier</a></li>
   </ul>
   
-  <h5>Text and language</h5>
+  <p><b>Text and language</b></p>
   <ul>
   <li><a href="https://github.com/codeproject/CodeProject.AI-SentimentAnalysis">Sentiment analyser (contributed)</a></li>
   <li><a href="https://github.com/codeproject/CodeProject.AI-TextSummary">Text Summary</a></li>

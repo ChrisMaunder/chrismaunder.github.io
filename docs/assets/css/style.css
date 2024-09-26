@@ -124,10 +124,14 @@ header {
     height: calc(100vh - 5rem);
     background: whitesmoke;
 }
+header h1 {
+    padding: .5rem 0 0 .5rem;
+}
 section {
     width: 580px; /* 500px */
     float: right;
-    padding-bottom: 50px
+    padding-bottom: 50px;
+    padding-top:20px
 }
 
 footer {
@@ -156,7 +160,9 @@ h1 {
 }
 
 h2 {
-    color: #393939
+    color: #393939;
+    font-size: 200%;
+    font-weight: 400;
 }
 
 h3,h4,h5,h6 {
@@ -318,7 +324,7 @@ ul.downloads {
     background-color: #f0f0f0
 }
 
-@media print, screen and (max-width: 760px) {
+@media print, screen and (max-width: 768px) {
     div.wrapper {
         width:auto;
         margin: 0
@@ -360,15 +366,17 @@ ul.downloads {
     }
 }
 
-@media print, screen and (max-width: 760px) {
+@media print, screen and (max-width: 768px) {
     body {
         word-wrap:break-word
     }
 
+    /*
     header {
         padding: 0
     }
-
+    */
+    
     header ul,header p.view {
         position: static
     }
@@ -378,9 +386,14 @@ ul.downloads {
     }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width: 430px) {
     body {
         padding:15px
+    }
+
+    header {
+        float: none;
+        margin:0;
     }
 
     .downloads {

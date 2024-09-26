@@ -80,8 +80,10 @@ your project is is now downloadable, installable and used by hundreds of thousan
 </ul>
 
 <H4>Projects: CodeProject.AI Modules</H4>
-<table><tr valign=top>
+
+<table><tr valign="top">
 <td>
+
   <h5>Generative AI</h5>
   <ul>
   <li><a href="https://github.com/codeproject/CodeProject.AI-LlamaChat">LlamaChat</a></li>
@@ -132,9 +134,9 @@ your project is is now downloadable, installable and used by hundreds of thousan
   <li><a href="https://github.com/ChrisMaunder/Adding-a-New-Module-to-CodeProject-AI-Server">Adding a New Module 
     to CodeProject.AI Server</a></li>
   <li><a href="https://github.com/ChrisMaunder/Object-Detection-with-an-IP-Camera-using-Python">Object Detection 
-    with an IP Camera using Python and CodeProject.AI Server<a/></li>
+    with an IP Camera using Python and CodeProject.AI Server</a></li>
   <li><a href="https://github.com/ChrisMaunder/Running-CodeProject-AI-Server-on-a-Raspberry-Pi">Running CodeProject.AI
-    Server on a Raspberry Pi<a/></li>
+    Server on a Raspberry Pi</a></li>
   <li><a href="https://github.com/ChrisMaunder/Getting-PaddleOCR-and-PaddlePaddle-to-work-in-Wind">Getting PaddleOCR
     and PaddlePaddle to work in Windows, Ubuntu and macOS</a></li>
   <li><a href="https://github.com/ChrisMaunder/5-Ways-to-Add-Artificial-Intelligence-to-an-Existi">5 Ways to Add 

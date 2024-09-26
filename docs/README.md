@@ -219,5 +219,3 @@ your project is is now downloadable, installable and used by hundreds of thousan
   <h2>Physiology / Training</h2>
   <p>(Private repos only)</p>
   
-</td>
-</tr></table>

@@ -1,3 +1,26 @@
+<div>
+<h2>If you're in a rush:</h2>
+<ul class="spaced">
+<li>Built <b>CodeProject.com</b> from the ground up. 25 years, 16M members, 65,000 articles,
+billions of emails sent. At our peek we were in the top 1,000 sites in the world by traffic.
+<b>I know how to plan, build, manage and maintain high load, high availability sites on a 
+shoestring budget</b>.</li>
+<li>Built <b>CodeProject.AI</b>, our edge-AI solution for providing an app-store style service
+for disparate AI projects for use in-network AI applications. Over 1 million downloads and Docker image pulls.<br></li>
+<li><b>Full stack developer</b> specialising in C#, Javascript/Typescript, SQL, HTML, Python, C++. Latest
+focus is Artificial Intelligence, edge and hosted. Always looking to learn more.<br></li>
+<li>Highly organised with a passion for <b>Product Development</b> and <b>Product Management</b>.<br></li>
+<li><b>Excellent communicator</b>, hundreds of articles published, lead teams for decades, provided product 
+training for dozens of sales reps, presented in the US and Europe on marketing and community building. 
+Able to convert complexity into understanding.</li>
+<li>Seeded, nurtured and managed the <b>CodeProject community</b> - one of the most supportive, self-managed
+communities you will find. That's a lot of kittens to herd.</li>
+<li><b>Focussed on the goal</b>, not on the buzzwords. I live to get the product out the door.<br></li>
+<li>Excellent in client meetings and can be trusted not to need adult supervision. The friendships I've
+built I will cherish forever.</li>
+</ul>
+</div>
+
 <h2>Summary</h2>
 
 Award winning Entrepreneur, Product Manager, Full-stack Software Developer, Author, Marketer, Content

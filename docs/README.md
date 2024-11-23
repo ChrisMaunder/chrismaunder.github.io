@@ -64,7 +64,7 @@ No job too intimidating, no job too humble. In the end it's about the game, not 
 <ul>
 
   <li><b>CodeProject.com</b>: The OG of the software developer communities. 16M registered members,
-  65,000 full length, high quality articles with code. Self funded, built and hosted by myself and
+  65,000 full-length, high-quality articles with code. Self funded, built and hosted by myself and
   my team in house. An outstanding, self-managed, supportive developer community the likes
   of which will not be seen again.</li>
 
@@ -72,10 +72,10 @@ No job too intimidating, no job too humble. In the end it's about the game, not 
 All the AI inferencing you need with your data staying safe within your network. From Raspberry Pi to
 the latest Apple Silicon Macs. Take any AI project, wrap it up as a module and
 your project is is now downloadable, installable and used by hundreds of thousands of users. Over
-1 Million downloads of our installers or Docker images. <a href="https://github.com/codeproject/CodeProject.AI-Server">Full code available</a>.</li>
+1 million downloads of our installers or Docker images. <a href="https://github.com/codeproject/CodeProject.AI-Server">Full code available</a>.</li>
   
-<li><b>DeveloperMedia.com</b> A multi-national digitial marketing agency for the IT space,
-  counting every heavy-weight in the industry as a client. Microsoft, Google, Amazon, NVIDIA, Cohere,
+<li><b>DeveloperMedia.com</b> A multi-national digital marketing agency for the IT space,
+  counting every heavy weight in the industry as a client. Microsoft, Google, Amazon, NVIDIA, Cohere,
   Salesforce. You name them, we looked after them.</li>
   <li><b>ContentLab.com</b> A content marketing agency utilising the top talent in the IT community
   to create Content Marketing pieces from actual developers, guided by the minds behind CodeProject.

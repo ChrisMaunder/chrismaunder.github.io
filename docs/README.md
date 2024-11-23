@@ -57,7 +57,7 @@ No job too intimidating, no job too humble. In the end it's about the game, not 
   <li>Marketing: sales and marketing funnels, collateral, outreach, strategy and messaging, with everything data and process driven.</li>
   <li>Community management: 29 years managing the OGs of online communities: CodeGuru.com to CodeProject.com.</li>
   <li>Authoring and Content Marketing. Prolific author of over 200 online articles, contributed to numerous books, 
-  and written copious content marketing pieces for fortune 500 compaines.</li>
+  and written copious content marketing pieces for fortune 500 companies.</li>
 </ul>
 
 <h2>Accomplishments</h2>

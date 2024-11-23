@@ -89,7 +89,7 @@ your project is is now downloadable, installable and used by hundreds of thousan
 
 <h2>Education and Training</h2>
 <ul>
-  <li>BSc (Mathematics) with First Class Honours focussing on Astrophysics at the Australian National Univeristy.</li>
+  <li>BSc (Mathematics) with First Class Honours focussing on Astrophysics at the Australian National University.</li>
   <li>Post-graduate studies at the University of Melbourne, Australia. Geomorphology and Hydrology through Digital Elevation Models.</li>
   <li>Cryptanalysis and High Performance Computing, Australian Signals Directorate (formerly Defence Signals Directorate)</li>
 </ul>
